@@ -78,6 +78,12 @@ public class MainActivity extends AppCompatActivity {
             return 0;
 
     }
+    
+    public static void test(){
+        for(int i=0;i<69;i++){
+            System.out.println("Free ka maal test");
+        }
+    }
 
     public void keepscore2(View view) {
 
